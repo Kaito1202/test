@@ -1,0 +1,68 @@
+.main,
+.main * {
+  box-sizing: border-box;
+}
+.main {
+  background: #ffffff;
+  width: 390px;
+  height: 844px;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+}
+input[name="username"] {
+  background: #fefefe;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 276px;
+  height: 58px;
+  position: absolute;
+  left: 57px;
+  top: 209px;
+}
+input[name="button"] {
+  background: #ff3d3d;
+  border-style: solid;
+  border-color: #ff3d3d;
+  border-width: 1px;
+  width: 276px;
+  height: 58px;
+  position: absolute;
+  left: 57px;
+  top: 471px;
+  color:#fefefe;
+  
+}
+input[name="password"] {
+  background: #fefefe;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 276px;
+  height: 53px;
+  position: absolute;
+  left: 57px;
+  top: 347px;
+}
+.id {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Meiryo UI", sans-serif;
+  position: absolute;
+  left: 26px;
+  top: 153px;
+  width: 123px;
+  height: 26px;
+}
+.password{
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Meiryo UI", sans-serif;
+  position: absolute;
+  left: 26px;
+  top: 297px;
+  width: 123px;
+  height: 26px;
+}
+

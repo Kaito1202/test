@@ -1,0 +1,228 @@
+.container {
+    width: 390px;
+    height: 844px;
+    position: relative;
+    background: white;
+    margin:auto;
+  }
+  
+  .icon {
+    width: 60px;
+    height: 51px;
+    left: 297px;
+    top: 744px;
+    position: absolute;
+  }
+  
+  .icon > div {
+    width: 50px;
+    height: 42.50px;
+    left: 5px;
+    top: 4.25px;
+    position: absolute;
+  }
+  
+  .icon > div > div {
+    width: 50px;
+    height: 42.50px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border: 2px black solid;
+  }
+  
+  .icon > div > div > div {
+    width: 12.50px;
+    height: 10.62px;
+    left: 18.75px;
+    top: 9.56px;
+    position: absolute;
+    border: 2px black solid;
+  }
+  
+  .icon > div > div > div + div {
+    width: 34.94px;
+    height: 9.92px;
+    left: 7.53px;
+    top: 26.56px;
+    position: absolute;
+    border: 2px black solid;
+  }
+  
+  .title {
+    width: 163px;
+    height: 50px;
+    left: 17px;
+    top: 133px;
+    position: absolute;
+    color: black;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .background {
+    width: 327px;
+    height: 134px;
+    left: 30px;
+    top: 210px;
+    position: absolute;
+    background: #D9D9D9;
+  }
+  
+  .subtitle {
+    width: 139px;
+    height: 27px;
+    left: 41px;
+    top: 227px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .amount {
+    width: 139px;
+    height: 48px;
+    left: 169px;
+    top: 277px;
+    position: absolute;
+    color: black;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .line {
+    width: 18px;
+    height: 17px;
+    left: 310px;
+    top: 280px;
+    position: absolute;
+   
+  }
+  
+  .button-container {
+    width: 296px;
+    height: 58px;
+    left: 48px;
+    top: 393px;
+    position: absolute;
+  }
+  .button p{
+    margin: 10px;
+    padding-left:10px;
+  }
+  .button-container > div {
+    width: 296px;
+    height: 58px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FF3D3D;
+    color:white;
+  }
+  
+  .button-container > div > div {
+    width: 280px;
+    height: 38px;
+    left: 8px;
+    top: 11px;
+    position: absolute;
+    color: white;
+    font-size: 28px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .name {
+    width: 230px;
+    height: 27px;
+    left: 17px;
+    top: 95px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .home-icon {
+    width: 50px;
+    height: 47px;
+    left: 47px;
+    top: 740px;
+    position: absolute;
+  }
+  
+  .home-icon > div {
+    width: 46.88px;
+    height: 40.52px;
+    left: 1.56px;
+    top: 3.55px;
+    position: absolute;
+    background: black;
+  }
+  
+  .home {
+    width: 84px;
+    height: 27px;
+    left: 36px;
+    top: 795px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .info {
+    width: 103px;
+    height: 18px;
+    left: 148px;
+    top: 804px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .mypage {
+    width: 87px;
+    height: 18px;
+    left: 283px;
+    top: 804px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .user-icon {
+    width: 49px;
+    height: 46px;
+    left: 169px;
+    top: 744px;
+    position: absolute;
+  }
+  
+  .user-icon > div {
+    width: 40.83px;
+    height: 34.50px;
+    left: 4.08px;
+    top: 5.75px;
+    position: absolute;
+    background: black;
+  }
+  
